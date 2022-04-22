@@ -1,2 +1,1 @@
-# C-lab
-C语言程序设计课程设计实验
+# C Language course assignment of HDU
